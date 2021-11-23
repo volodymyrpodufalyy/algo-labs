@@ -1,0 +1,13 @@
+# dependencies
+/node_modules
+package-lock.json
+
+/idea
+.idea/algo-labs.iml
+.idea/.gitignore
+.idea/modules.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/prettier.xml
+.idea/codeStyles/codeStyleConfig.xml
+.idea/jsLibraryMappings.xml
